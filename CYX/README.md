@@ -1,4 +1,4 @@
-- ##Tree
+- ## Tree
 
     - 最小度限制生成树 mst-limited-degree
     - 最小树形图 chu-liu-algorithm
